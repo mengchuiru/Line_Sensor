@@ -1,12 +1,12 @@
-# LED灯
+# 巡线传感器
 
 
 ## 介绍
-Mars:Lab          LED灯模块测试
+Mars:Lab          巡线传感器测试
 
 ![](./arduinoC/_images/featured.png)
 
-通过数字/模拟引脚控制的LED发光模块
+用于识别地面地面颜色灰度的传感器
 
 ## 编程软件
 使用mind+ 进行编程

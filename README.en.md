@@ -1,11 +1,11 @@
-# LED_Light
+# Line Sensor
 
 ## Description
-Mars:Lab          LED Light Moudle
+Mars:Lab          Line Sensor Moudle
 
 ![](./arduinoC/_images/featured.png)
 
-LED Light Module Controlled by Digital/Analog Pin
+Sensor For Identifying Ground Color Grayscale
 
 ## Software 
 Program with mind+
