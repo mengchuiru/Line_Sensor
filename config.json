@@ -24,7 +24,14 @@
       "board": [
         "microbit"
       ],
-      "main": "main.ts"
+      "main": "main.ts",
+      "files": [
+        "_images/featured.png",
+        "_images/icon.svg",
+        "_locales/zh-cn.json",
+        "_menus/microbit.json",
+        "libraries/libraries.zip"
+      ]
     }
   }
 }
